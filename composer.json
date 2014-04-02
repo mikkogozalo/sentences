@@ -1,0 +1,21 @@
+{
+    "name": "mikkogozalo/sentences",
+    "description": "Classes related to sentences. Right now, only SentenceSplitter is present.",
+    "authors": [
+        {
+            "name": "Mikko Gozalo",
+            "email": "iam@mikkogozalo.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mikkogozalo/sentences"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Gozalo\\Utilities": "src/"
+        }
+    }
+}
